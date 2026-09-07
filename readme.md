@@ -8,3 +8,4 @@ git commit - record the staged changes
 touch - create a new file
 git diff - compare two sets of data and display their differences
 rm - remove files from the system
+git stash - preserve uncommited changes so they can be applied later
