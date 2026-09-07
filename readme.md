@@ -9,3 +9,4 @@ touch - create a new file
 git diff - compare two sets of data and display their differences
 rm - remove files from the system
 git stash - preserve uncommited changes so they can be applied later
+cat - create, view and concatenate files directly from the terminal
