@@ -5,3 +5,4 @@ ls - list all the files in a directory
 git add - add a change in the working directory to the staging area
 pwd - print the name of the working directory
 git commit - record the staged changes
+touch - create a new file
