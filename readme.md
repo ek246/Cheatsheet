@@ -11,3 +11,4 @@ rm - remove files from the system
 git stash - preserve uncommited changes so they can be applied later
 cat - create, view and concatenate files directly from the terminal
 git checkout - move between two branches in a repository
+head - Linux command to display the first few lines of a file in the terminal
